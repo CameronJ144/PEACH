@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PEACH/static/css/main.beff6576.css",
-    "main.js": "/PEACH/static/js/main.24a1be09.js",
+    "main.css": "/PEACH/static/css/main.f7d21e68.css",
+    "main.js": "/PEACH/static/js/main.35582981.js",
     "static/media/Car.jpeg": "/PEACH/static/media/Car.ac8238700401e186f941.jpeg",
     "static/media/niyah2.png": "/PEACH/static/media/niyah2.7206d891205073fe5d96.png",
     "static/media/niyah0.png": "/PEACH/static/media/niyah0.425accb90d3a5abf0c10.png",
@@ -10,11 +10,11 @@
     "static/media/niyah3.png": "/PEACH/static/media/niyah3.54787c936e7a83da2fea.png",
     "static/media/niyah4.png": "/PEACH/static/media/niyah4.a77da61af54688847eaa.png",
     "index.html": "/PEACH/index.html",
-    "main.beff6576.css.map": "/PEACH/static/css/main.beff6576.css.map",
-    "main.24a1be09.js.map": "/PEACH/static/js/main.24a1be09.js.map"
+    "main.f7d21e68.css.map": "/PEACH/static/css/main.f7d21e68.css.map",
+    "main.35582981.js.map": "/PEACH/static/js/main.35582981.js.map"
   },
   "entrypoints": [
-    "static/css/main.beff6576.css",
-    "static/js/main.24a1be09.js"
+    "static/css/main.f7d21e68.css",
+    "static/js/main.35582981.js"
   ]
 }
