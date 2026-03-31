@@ -1,13 +1,20 @@
 {
   "files": {
-    "main.css": "/PEACH/static/css/main.cc6cc2ca.css",
-    "main.js": "/PEACH/static/js/main.15acd3f3.js",
+    "main.css": "/PEACH/static/css/main.beff6576.css",
+    "main.js": "/PEACH/static/js/main.69c6f141.js",
+    "static/media/Car.jpeg": "/PEACH/static/media/Car.ac8238700401e186f941.jpeg",
+    "static/media/niyah2.png": "/PEACH/static/media/niyah2.7206d891205073fe5d96.png",
+    "static/media/niyah0.png": "/PEACH/static/media/niyah0.425accb90d3a5abf0c10.png",
+    "static/media/peach.jpg": "/PEACH/static/media/peach.822bac1be4dfd04d2c51.jpg",
+    "static/media/niyah1.png": "/PEACH/static/media/niyah1.681462046bf73ac6611d.png",
+    "static/media/niyah3.png": "/PEACH/static/media/niyah3.54787c936e7a83da2fea.png",
+    "static/media/niyah4.png": "/PEACH/static/media/niyah4.a77da61af54688847eaa.png",
     "index.html": "/PEACH/index.html",
-    "main.cc6cc2ca.css.map": "/PEACH/static/css/main.cc6cc2ca.css.map",
-    "main.15acd3f3.js.map": "/PEACH/static/js/main.15acd3f3.js.map"
+    "main.beff6576.css.map": "/PEACH/static/css/main.beff6576.css.map",
+    "main.69c6f141.js.map": "/PEACH/static/js/main.69c6f141.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc6cc2ca.css",
-    "static/js/main.15acd3f3.js"
+    "static/css/main.beff6576.css",
+    "static/js/main.69c6f141.js"
   ]
 }
